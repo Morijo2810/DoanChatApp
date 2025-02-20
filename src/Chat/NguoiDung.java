@@ -102,7 +102,7 @@ public class NguoiDung extends javax.swing.JFrame {
     }//GEN-LAST:event_msg_guiActionPerformed
 
     /**
-     * @param args the command line arguments
+  addad
      */
     public static void main(String args[]) {
         /* Set the Nimbus look and feel */
